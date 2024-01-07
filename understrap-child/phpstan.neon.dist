@@ -34,7 +34,7 @@ parameters:
 		- '#Function understrap_components_jetpack_setup\(\) has no return type specified.#'
 		- '#Function understrap_components_infinite_scroll_render\(\) has no return type specified.#'
 		- '#Function understrap_components_social_menu\(\) has no return type specified.#'
-		- '#Function understrap_pagination\(\) has no return type specified.#'
+		- '#Function emz_pagination\(\) has no return type specified.#'
 		- '#Function understrap_setup\(\) has no return type specified.#'
 		- '#Function understrap_posted_on\(\) has no return type specified.#'
 		- '#Function understrap_entry_footer\(\) has no return type specified.#'
